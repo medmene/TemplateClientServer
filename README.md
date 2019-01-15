@@ -1,2 +1,3 @@
 # TemplateClientServer
-Template client-server simple code
+Template client-server simple code in one class
+
