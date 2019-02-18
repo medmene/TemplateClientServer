@@ -30,8 +30,8 @@
 #include <sys/cdefs.h>
 __FBSDID("$FreeBSD$");
 
-unsigned int vt_logo_width = 257;
-unsigned int vt_logo_height = 219;
+unsigned int vt_logo_width = 248;
+unsigned int vt_logo_height = 189;
 unsigned int vt_logo_depth = 1;
 
 unsigned char vt_logo_image[] = {
